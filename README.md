@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Magalí
-- 👀 I’m interested in 
+- 👀 I’m interested in programming and design.
 - 🌱 I’m currently learning Computer Engineering @UNRN and Salesforce Development.
 - 🔋  Currently working @Globant 
 - 📫 How to reach me on linkedIn https://www.linkedin.com/in/magal%C3%AD-benitez/ 
